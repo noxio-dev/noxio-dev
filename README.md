@@ -12,7 +12,7 @@ I am a french fullstack developer navigating between low-level programming (memo
 My primary tools are C and C++, which I use to build robust and high-performance software. I believe that a deep understanding of low-level mechanics is essential for building efficient high-level systems.
 
 - Currently working on: **CeroClient**
-- Currently learning: **Scala/Fortran**
+- Currently learning: **Devlopping Android Apps**
 - Ask me about: **C/C++, Java, Python, system architecture**
 
 ---
