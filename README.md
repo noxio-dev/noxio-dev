@@ -7,12 +7,12 @@
 
 ### About Me
 
-I am a french fullstack developer navigating between low-level programming (memory management, system performance, architecture) and high-level development (APIs, backend services, full application architecture). 
+I am a French fullstack developer navigating between low-level programming (memory management, system performance, architecture) and high-level development (APIs, backend services, full application architecture). 
 
 My primary tools are C and C++, which I use to build robust and high-performance software. I believe that a deep understanding of low-level mechanics is essential for building efficient high-level systems.
 
 - Currently working on: **CeroClient**
-- Currently learning: **Devlopping Android Apps**
+- Currently learning: **Developing Android Apps**
 - Ask me about: **C/C++, Java, Python, system architecture**
 
 ---
