@@ -13,7 +13,7 @@ My primary tools are **C and C++**, which I use to build robust and high-perform
 
 - Currently working on: **[CeroClient](https://github.com/noxio-dev/Cero-Client)** — a free and open Minecraft client
 - Currently learning: **Compiler development**
-- Ask me about: **C/C++, Java, Python, system architecture, Unix-systems**
+- Ask me about: **C/C++, Java, Python, system architecture, Unix systems**
 - Languages: **French** (native), **English** (y Español pero soy muy malo)
 
 ---
@@ -40,10 +40,16 @@ My primary tools are **C and C++**, which I use to build robust and high-perform
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+**Socials**
+
+[![GitLab](https://img.shields.io/badge/GitLab-noxiodev-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/noxiodev)
+[![GitHub](https://img.shields.io/badge/GitHub-noxiodev-181717?style=flat&logo=github&logoColor=white)](https://github.com/noxio-dev/)
+[![Discord](https://img.shields.io/badge/Discord-noxiolevrai-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/23Xdz4k4nH)
+[![X](https://img.shields.io/badge/X-NoxioDev-000000?style=flat&logo=x&logoColor=white)](https://x.com/NoxioDev)
+
 ---
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=noxio-dev&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=noxio-dev&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+
