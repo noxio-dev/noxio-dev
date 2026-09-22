@@ -12,7 +12,7 @@ I'm a French fullstack developer navigating between **low-level programming** (m
 My primary tools are **C and C++**, which I use to build robust and high-performance software. I believe that a deep understanding of low-level mechanics is essential for building efficient high-level systems.
 
 - Currently working on: **[CeroClient](https://github.com/noxio-dev/Cero-Client)** — a free and open Minecraft client
-- Currently learning: **Nothing ...**
+- Currently learning: **Micro benchmarking**
 - Ask me about: **C/C++, Java, Python, system architecture, Unix systems**
 - Languages: **French** (native), **English** (y Español pero soy muy malo)
 
