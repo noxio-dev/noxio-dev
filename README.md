@@ -47,9 +47,3 @@ My primary tools are **C and C++**, which I use to build robust and high-perform
 [![Discord](https://img.shields.io/badge/Discord-noxiolevrai-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/23Xdz4k4nH)
 [![X](https://img.shields.io/badge/X-NoxioDev-000000?style=flat&logo=x&logoColor=white)](https://x.com/NoxioDev)
 
----
-
-### GitHub Stats
-
-<img src="https://komarev.com/ghpvc/?username=noxio-dev&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-
