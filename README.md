@@ -12,7 +12,7 @@ I'm a French developer navigating between **low-level programming** (memory mana
 
 I believe a deep understanding of what happens at the silicon level makes you a better engineer at every layer above. C, C++, and Rust are my tools of choice for building robust, high-performance software, but I'm just as comfortable wiring up an API or designing a package manager.
 
-- Currently working on: **PrismOS** — see above
+- Currently working on: **PrismOS** — see my repostories
 - Currently learning: **Operating systems internals, kernel development**
 - Ask me about: **C/C++, Rust, OSdev, system architecture, Unix systems, FreeBSD**
 - How to reach me: Discord `noxiolevrai` · X `@NoxioDev`
