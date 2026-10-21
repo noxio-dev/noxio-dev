@@ -6,29 +6,6 @@
 
 ---
 
-### Featured Project
-
-<p>
-  <a href="https://github.com/noxio-dev/PrismOS">
-    <img align="left" width="200" src="https://img.shields.io/badge/PrismOS-x86--64%20OS%20from%20scratch-000000?style=for-the-badge&logo=rust&logoColor=white" alt="PrismOS" />
-  </a>
-</p>
-
-<br clear="left"/>
-
-> A from-scratch **x86-64 operating system** with a FreeBSD-style boot chain.
-> Real **BIOS + UEFI bootloader** whose logic is written in **Lua**, loading a
-> **Rust** kernel (no_std, x86_64-unknown-none).
-
-**Currently shipped:**
-- GDT/TSS/IDT, PMM, VMM with direct map + W^X kernel
-- Kernel shell (21 commands), Unicode framebuffer (Unifont), Snake
-- Tests automated via QEMU (BIOS + UEFI) in CI
-
-`Rust` `Lua` `C` `x86-64` `OSdev`
-
----
-
 ### About Me
 
 I'm a French developer navigating between **low-level programming** (memory management, system performance, kernel architecture) and **high-level development** (APIs, backend services, full application architecture).
@@ -68,25 +45,9 @@ I believe a deep understanding of what happens at the silicon level makes you a 
 
 ---
 
-### Other Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[CeroClient](https://github.com/noxio-dev/Cero-Client)** | Free and open Minecraft client | C++, Java |
-| **Linux Distro** *(private)* | Custom distro + C package manager | C, Bash |
-| **PrismOS (legacy C)** *(unpublished)* | Previous kernel iteration with userland | C |
-
----
-
 ### Find Me Online
 
 [![GitHub](https://img.shields.io/badge/GitHub-noxio--dev-181717?style=flat&logo=github&logoColor=white)](https://github.com/noxio-dev/)
 [![GitLab](https://img.shields.io/badge/GitLab-noxiodev-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/noxiodev)
 [![Discord](https://img.shields.io/badge/Discord-noxiolevrai-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/23Xdz4k4nH)
 [![X](https://img.shields.io/badge/X-NoxioDev-000000?style=flat&logo=x&logoColor=white)](https://x.com/NoxioDev)
-
----
-
-<div align="center">
-  <sub>"The kernel is 99.99% of the difficulty. The rest is just plumbing."</sub>
-</div>
