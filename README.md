@@ -16,7 +16,6 @@ I believe a deep understanding of what happens at the silicon level makes you a 
 - Currently learning: **Operating systems internals, kernel development**
 - Ask me about: **C/C++, Rust, OSdev, system architecture, Unix systems, FreeBSD**
 - How to reach me: Discord `noxiolevrai` · X `@NoxioDev`
-- Fun fact: I wrote an ext4 driver from scratch before I ever wrote a TODO app
 - French (native) · English · Español (un poco)
 
 ---
